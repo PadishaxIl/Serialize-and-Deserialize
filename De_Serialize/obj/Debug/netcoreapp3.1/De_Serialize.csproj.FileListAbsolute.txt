@@ -1,0 +1,11 @@
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\bin\Debug\netcoreapp3.1\De_Serialize.exe
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\bin\Debug\netcoreapp3.1\De_Serialize.deps.json
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\bin\Debug\netcoreapp3.1\De_Serialize.runtimeconfig.json
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\bin\Debug\netcoreapp3.1\De_Serialize.runtimeconfig.dev.json
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\bin\Debug\netcoreapp3.1\De_Serialize.dll
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\bin\Debug\netcoreapp3.1\De_Serialize.pdb
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\obj\Debug\netcoreapp3.1\De_Serialize.csprojAssemblyReference.cache
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\obj\Debug\netcoreapp3.1\De_Serialize.AssemblyInfoInputs.cache
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\obj\Debug\netcoreapp3.1\De_Serialize.AssemblyInfo.cs
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\obj\Debug\netcoreapp3.1\De_Serialize.dll
+C:\Users\ilin1\source\repos\De_Serialize\De_Serialize\obj\Debug\netcoreapp3.1\De_Serialize.pdb
